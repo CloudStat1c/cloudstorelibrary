@@ -26,7 +26,7 @@
     },
         {
       "id": "xpize",
-      "name": "XpIze",
+      "name": "Xpize",
       "description": "XPize is a GUI enhancer for Windows XP and above.",
       "os_compatibility": ["winXP", "winVista"],
       "version": "5.6",
