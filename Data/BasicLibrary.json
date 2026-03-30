@@ -1,0 +1,28 @@
+{
+  "apps": [
+    {
+      "id": "supermium",
+      "name": "Supermium 32Bit",
+      "description": "Supermium is a Web browser for older operating systems.",
+      "os_compatibility": ["win95", "win98", "winME", "win2000", "winXP", "winV"],
+      "version": "?",
+      "download_links": {
+        "installer": "http://thecloudstore.netlify.app/Data/downloadables/supermium_setup.exe"
+      },
+      "thumbnail": "http://thecloudstore.netlify.app/Data/icons/supermium32.jpg",
+      "category": "Browsers"
+    },
+    {
+      "id": "pinball3Dremastered",
+      "name": "PinBall 3D: Remastered",
+      "description": "Coming Soon Bubba.",
+      "os_compatibility": ["winXP", "winV"],
+      "version": "1.2",
+      "download_links": {
+        "installer": "http://thecloudstore.netlify.app/Data/downloadables/supermium_setup.exe"
+      },
+      "thumbnail": "http://thecloudstore.netlify.app/Data/icons/supermium32.jpg",
+      "category": "Game"
+    }
+  ]
+}
