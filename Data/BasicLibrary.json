@@ -23,6 +23,18 @@
       },
       "thumbnail": "http://thecloudstore.netlify.app/Data/icons/supermium32.jpg",
       "category": "Game"
+    },
+        {
+      "id": "xpize",
+      "name": "XpIze",
+      "description": "XPize is a GUI enhancer for Windows XP and above.",
+      "os_compatibility": ["winXP", "winVista"],
+      "version": "5.6",
+      "download_links": {
+        "installer": "http://thecloudstore.netlify.app/Data/downloadables/xpize5R6.exe"
+      },
+      "thumbnail": "",
+      "category": "GUI Enhancer"
     }
   ]
 }
