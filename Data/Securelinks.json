@@ -8,5 +8,15 @@
       "label": "Legacy",
       "url": "https://yourwebsite.com/Our%20Library/index.html"
     }
+  ],
+  "???": [
+    {
+      "label": "Modern",
+      "url": "https://yourwebsite.com/secure/index.html"
+    },
+    {
+      "label": "Legacy",
+      "url": "https://yourwebsite.com/secure/legacy.html"
+    }
   ]
 }
