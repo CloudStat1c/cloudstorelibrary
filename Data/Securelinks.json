@@ -9,14 +9,24 @@
       "url": "https://yourwebsite.com/Our%20Library/index.html"
     }
   ],
-  "???": [
+  "SecureLatestVersions": [
     {
       "label": "Modern",
-      "url": "https://yourwebsite.com/secure/index.html"
+      "v": "1"
     },
     {
       "label": "Legacy",
-      "url": "https://yourwebsite.com/secure/legacy.html"
+      "v": "1"
+    }
+  ],
+    "SecureLatestBetaVersions": [
+    {
+      "label": "Modern",
+      "v": "https://yourwebsite.com/index.html"
+    },
+    {
+      "label": "Legacy",
+      "v": "https://yourwebsite.com/Our%20Library/index.html"
     }
   ]
 }
