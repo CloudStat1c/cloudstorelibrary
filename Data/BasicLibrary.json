@@ -21,7 +21,7 @@
       "download_links": {
         "installer": "http://thecloudstore.netlify.app/Data/downloadables/supermium_setup.exe"
       },
-      "thumbnail": "http://thecloudstore.netlify.app/Data/icons/supermium32.jpg",
+      "thumbnail": "http://thecloudstore.netlify.app/Data/downloadables/CloudStoreNoImage.png",
       "category": "Game"
     },
         {
@@ -33,7 +33,7 @@
       "download_links": {
         "installer": "http://thecloudstore.netlify.app/Data/downloadables/xpize5R6.exe"
       },
-      "thumbnail": "http://thecloudstore.netlify.app/Data/downloadables/CloudStoreNoImage.png",
+      "thumbnail": "http://thecloudstore.netlify.app/Data/icons/xpize_logo.png",
       "category": "GUI Enhancer"
     }
   ]
