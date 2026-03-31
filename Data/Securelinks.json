@@ -1,1 +1,12 @@
-
+{
+  "SecureUpdatelinks": [
+    {
+      "label": "Modern",
+      "url": "https://yourwebsite.com/index.html"
+    },
+    {
+      "label": "Legacy",
+      "url": "https://yourwebsite.com/Our%20Library/index.html"
+    }
+  ]
+}
